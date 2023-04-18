@@ -4,7 +4,3 @@
 - learning concept of vite
 - learn python ML
 - use of flask
- 
- 
- 
- bhaiya is this correct???
